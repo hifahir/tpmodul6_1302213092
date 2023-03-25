@@ -44,7 +44,7 @@ public class SayaTubeVideo{
             SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract - HilmanFarizHirzi_praktikan");
             for(int i = 0; i < 1000; i++)
             {
-                video.IncrasePlayCount(1000000);
+                video.IncrasePlayCount(10000000);
             }
             video.printVideoDetail();
         }
